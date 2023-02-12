@@ -22,7 +22,10 @@ cd People-Detection-and-Tracking-in-Video-using-YOLOv8-and-DeepSORT-with-Left-to
 - Setting the Directory.
 ```
 cd detect
+
 ```
+- donwload from here https://github.com/noorkhokhar99/Real-Time-Object-Segmentation-and-Tracking-using-YOLOv8-Vehicles-Counting/tree/main/deep_sort_pytorch deep_sort_pytorch and put folder detect
+
 
 - For yolov8 object detection + Tracking + people Counting
 
