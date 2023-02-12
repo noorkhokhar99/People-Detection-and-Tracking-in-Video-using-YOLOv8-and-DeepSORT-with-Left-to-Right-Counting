@@ -26,6 +26,7 @@ cd ultralytics/yolo/v8/detect
 
 ```
 python predict.py model=yolov8l.pt source="PETS09-S2L2-raw.mp4" show=True
+
 ```
 
 ### RESULTS
