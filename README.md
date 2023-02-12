@@ -21,7 +21,7 @@ cd People-Detection-and-Tracking-in-Video-using-YOLOv8-and-DeepSORT-with-Left-to
 
 - Setting the Directory.
 ```
-cd ultralytics/yolo/v8/detect
+cd yolo/v8/detect
 ```
 
 - For yolov8 object detection + Tracking + people Counting
