@@ -5,7 +5,7 @@ People Detection and Tracking in Video using YOLOv8 and DeepSORT with Left to Ri
 
 
 ## Steps to run Code
-- Create a new conda environment with Python 3.8 and activate this environment
+- Create a new conda environment with Python 3.8,python 3.9 and activate this environment
 ```
 conda create -n yolov8 python=3.8
 conda activate yolov8
