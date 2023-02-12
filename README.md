@@ -1,5 +1,5 @@
 <H1 align="center">
-People Detection and Tracking in Video using YOLOv8 and DeepSORT with Left to Right Counting"  </H1>
+People Detection and Tracking in Video using YOLOv8 and DeepSORT with Left to Right Counting  </H1>
 
 
 
